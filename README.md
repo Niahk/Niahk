@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niahk
 - 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning machine learning and have a knowledge of python ,HTML (beginner) 
+- 🌱 I am a Drupal Developer with experience in building and maintaining websites using drupal.In addition to my web development skills, I am currently diving into the world of data scince and machine learning.
 
 
 <!---
